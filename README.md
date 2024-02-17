@@ -33,6 +33,9 @@ All classification algorithms are evaulated by Confusion Matrix and ROC, AUC cur
 
 <img alt = "Confusion Matrix"  src="Confusion Matrix.png" width="280">
 
+#### Feature Importance
+<img src = 'Feature Importance.png' width = "280" height = "300">
+
 
 
 ## Versioning
