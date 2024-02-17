@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Churn Analysis/Churn Analysis/.idea/Churn Analysis.iml" filepath="$PROJECT_DIR$/../Churn Analysis/Churn Analysis/.idea/Churn Analysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HR Analytics.iml" filepath="$PROJECT_DIR$/.idea/HR Analytics.iml" />
     </modules>
   </component>

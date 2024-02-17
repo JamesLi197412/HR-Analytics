@@ -20,6 +20,7 @@ To solve such a problem, I have completed few analysis on its dataset to provide
 
     * Data Manipulation: pandas, numpy
     * Data Visualization: seaborn, matplotlib
+    * Data Processing
 
 
 
@@ -45,4 +46,3 @@ Acknowledgments/References
 
 License
 
-This is an ongoing project
