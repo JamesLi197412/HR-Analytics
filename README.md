@@ -32,23 +32,10 @@ All classification algorithms are evaulated by Confusion Matrix and ROC, AUC cur
 
 
 <img alt = "Confusion Matrix"  src="Confusion Matrix.png" width="280">
-<<<<<<< HEAD
+
 
 #### Feature Importance
-<img src = 'Feature Importance.png' width = "280" height = "300">
-=======
->>>>>>> master/main
+<img src = 'Feature Importance.png' width = "480" height = "300">
 
 
-
-## Versioning
-Github/Git are used for versioning/sharing. 
-
-## Authors
-
-* **James Li** 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
